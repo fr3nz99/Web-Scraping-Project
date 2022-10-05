@@ -1,4 +1,4 @@
-# ADM Homework3 Group-10
+# Web Scraping and sentiment analysis of Anime Reviews
 HW 3 of the Algorithmic Methods of Data Mining course at the Data Science Master's Degree in Sapienza.
 ## Andrea Mantuano, Gianmarco Montillo, Alessio Barboni, Francesco Pinto
 ## Content description
